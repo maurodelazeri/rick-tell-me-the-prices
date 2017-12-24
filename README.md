@@ -4,6 +4,9 @@ Get cryptocurrency prices on terminal.
 
 Uses data from [CoinMarketCap API](https://coinmarketcap.com/api/).
 
+
+<img src="./IJiMwP.png" alt="demo">
+
 ### Obtaining
 
     go get github.com/maurodelazeri/rick-tell-me-the-prices

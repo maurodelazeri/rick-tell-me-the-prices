@@ -14,7 +14,7 @@ Uses data from [CoinMarketCap API](https://coinmarketcap.com/api/).
 ### Usage
 
 ```
-Usage of ./rick-tell-me-the-prices:
+Usage of rick-tell-me-the-prices
   -currency string
         Currency for price and market cap data.
         Valid currencies are: USD, AUD, BRL, BGN, CAD, CHF, CLP, CNY, CZK, DKK, EUR, GBP, HKD, HUF, IDR, ILS, INR, JPY, KRW, MXN, MYR, NOK, NZD, PHP, PKR, PLN, RUB, SEK, SGD, THB, TRY, TWD, ZAR (default "USD")

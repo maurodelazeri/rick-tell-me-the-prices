@@ -7,6 +7,8 @@ Uses data from [CoinMarketCap API](https://coinmarketcap.com/api/).
 
 <img src="./IJiMwP.png" alt="demo">
 
+<img src="./119.jpeg" alt="demo2">
+
 ### Obtaining
 
     go get github.com/maurodelazeri/rick-tell-me-the-prices
